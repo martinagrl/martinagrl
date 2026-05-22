@@ -5,7 +5,7 @@
 </div>
 
 
-۶ৎ data science student from argentina 🇦🇷 ۶ৎ
+> data science student from argentina 🇦🇷
 
 
 ### > currently learning 
