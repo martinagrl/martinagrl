@@ -13,7 +13,7 @@
 ![GitHub](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=FF00AA&background=00000000&width=140&height=30&pause=99999&lines=>+github)
 
 ### > interested in
-`data` `tech` `ui/ux` `art`
+`data` `tech` `ui/ux` `creative coding` `visual design``making things`
 
 
 
