@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gato.gif" width="350" align="right">
+  <img src="gato.gif" width="250" align="right">
   
 ![header](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&color=FF00AA&background=00000000&center=true&vCenter=true&width=600&lines=hi+i%27m+martina)
 </div>
