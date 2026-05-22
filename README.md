@@ -10,7 +10,7 @@ data science student from argentina 🇦🇷
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### interested in
-`data` `tech` `ui/ux`
+`data` `tech` `ui/ux` `art`
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=martinagrl&show_icons=true&theme=graywhite&hide_border=true)
