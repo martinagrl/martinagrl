@@ -5,9 +5,9 @@ data science student from argentina 🇦🇷
 
 
 ### currently learning
-![Python](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=FF00AA&background=00000000&width=140&height=30&lines=>+python)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Python](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=FF00AA&background=00000000&width=140&height=30&pause=99999&lines=>+python)
+![SQL](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=FF00AA&background=00000000&width=120&height=30&pause=99999&lines=>+sql)
+![GitHub](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&color=FF00AA&background=00000000&width=140&height=30&pause=99999&lines=>+github)
 
 ### interested in
 `data` `tech` `ui/ux` `art`
