@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=speech&color=ffb6c1&text=hola,%20i'm%20martina&fontColor=ff69b4&fontSize=40)
+![header](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&color=FF00AA&background=00000000&center=true&vCenter=true&width=600&lines=hi+i%27m+martina)
 
 data science student from argentina 🇦🇷
 
