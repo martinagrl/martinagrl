@@ -13,6 +13,6 @@ data science student from argentina 🇦🇷
 `data` `tech` `ui/ux` `art`
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=martinagrl&show_icons=true&theme=graywhite&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=martinagrl&show_icons=true&theme=graywhite&hide_border=true&cache_seconds=1800)
 
 
